@@ -83,7 +83,7 @@ class ActionProvide {
         "Permission issues are typically resolved by the admin. Please contact access_control@company.com for assistance.";
       this.updateChatBotMessage(this.createChatBotMessage(response));
     } else if (lowerMessage.includes("language:")) {
-      const [_, language, text] = message.match(/language:(\w+):(.+)/) || [];
+      const [language, text] = message.match(/language:(\w+):(.+)/) || [];
       if (language && text) {
         await this.generateResponseMessage(text.trim(), language.trim());
       } else {
