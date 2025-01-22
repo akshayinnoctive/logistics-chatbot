@@ -13,7 +13,6 @@ class ActionProvide {
     createClientMessage,
     stateRef,
     createCustomMessage,
-    ...rest
   ) {
     this.createChatBotMessage = createChatBotMessage;
     this.setState = setStateFunc;
