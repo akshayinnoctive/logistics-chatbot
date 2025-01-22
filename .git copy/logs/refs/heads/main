@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 a73d41fb701eb1bc2f4d9389cbfb236c1990e22c akshayinnoctive <87423098+akshayinnoctive@users.noreply.github.com> 1737537075 +0530	commit (initial): push code
-a73d41fb701eb1bc2f4d9389cbfb236c1990e22c a73d41fb701eb1bc2f4d9389cbfb236c1990e22c akshayinnoctive <87423098+akshayinnoctive@users.noreply.github.com> 1737537457 +0530	Branch: renamed refs/heads/main to refs/heads/main
-a73d41fb701eb1bc2f4d9389cbfb236c1990e22c eab02c5a6260b46a20db6b152a3b36f56eda3f14 akshayinnoctive <87423098+akshayinnoctive@users.noreply.github.com> 1737537565 +0530	commit: Exclude node_modules from the repository
-eab02c5a6260b46a20db6b152a3b36f56eda3f14 de7f184f3372eba8c410fd76ddf40f0052518a8b akshayinnoctive <87423098+akshayinnoctive@users.noreply.github.com> 1737537653 +0530	commit: Add large file with Git LFS
